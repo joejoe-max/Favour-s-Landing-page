@@ -1,0 +1,48 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-family: sans-serif;
+  background-image: url("./favour.jpg");
+  align-items: center;
+  background-size: cover;
+  background-blend-mode: fixed;
+  background-repeat: no-repeat;
+  background-height: 100%;
+}
+p{
+  font-size: 20px;
+  font-weight: 1000px;
+}
+
+.rest {
+  font-family: monospace;
+  font-weight: 100pts;
+}
+
+.content {
+  text-align: center;
+  font-family: monospace;
+  font-weight: 100pts;
+}
+
+.btn {
+  margin-bottom: 2px;
+  padding: 10px 20px;
+  background-color: brown;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: monospace;
+}
+
+.btn:hover {
+  background-color: red;
+}
+a{
+  font-family: serif;
+}
+
+
