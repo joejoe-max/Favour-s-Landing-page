@@ -4,8 +4,9 @@ body{
   padding: 0;
   color: white;
   font-family: sans-serif;
-  background-image: url("./favour.jpg");
+  background: url("./favour.jpg") no-repeat center center fixed;
   align-items: center;
+  flex-direction: column;
   background-size: cover;
   background-blend-mode: fixed;
   background-repeat: no-repeat;
